@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "D:\\Learn\\Blockchain\\chaiwala\\contracts\\ChaiWala.sol": {
+      "lastModificationDate": 1676974560961,
+      "contentHash": "bfb6063479016c7cd11d1984dc52df72",
+      "sourceName": "contracts/ChaiWala.sol",
+      "solcConfig": {
+        "version": "0.8.17",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "0.8.17"
+      ],
+      "artifacts": [
+        "ChaiWala"
+      ]
+    }
+  }
+}
